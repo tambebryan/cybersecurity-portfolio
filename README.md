@@ -1,4 +1,4 @@
-# Tambe Bryan — Cybersecurity Portfolio
+# Tambe Bryan: Cybersecurity Portfolio
 
 Aspiring Blue Team Analyst | BSc (Hons) Computer Science with Cybersecurity
 Birmingham Newman University
@@ -38,5 +38,5 @@ Virtualisation:VirtualBox (Windows 10 VM, Kali Linux VM)
 I have built a functional SIEM environment using VirtualBox and Elastic, with a Windows 10 VM configured with Sysmon for detailed endpoint logging. Log ingestion, alert monitoring, and simulated threat detection are all documented in the `/home-lab` folder.
 
 # Connect
-[LinkedIn](www.linkedin.com/in/tambe-bryan-eyong-nkongho-b85863405)
+[LinkedIn](https://www.linkedin.com/in/tambe-bryan-eyong-nkongho-b85863405/)
 *This portfolio is actively maintained and updated as new skills and investigations are completed.*
