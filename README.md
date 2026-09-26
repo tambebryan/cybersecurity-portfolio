@@ -7,11 +7,11 @@ Walsall College
 
 ## About Me
 
-I'm a cybersecurity student specialising in defensive security, actively building practical skills through hands-on labs, real-world simulations, and self-directed study alongside my degree.
+I'm a cybersecurity student specialising in defensive security, actively building practical skills through hands-on labs, real-world simulations, and self-directed study alongside my current HNC in Computing.
 
-This portfolio documents real investigative work — threat detection, log analysis, SIEM operations, and incident response. Every entry here represents deliberate practice built to reflect professional blue team standards, not coursework or theory.
+This portfolio documents real investigative work — threat detection, log analysis, SIEM operations, and incident response. Every entry here represents deliberate practice built to reflect professional blue team standards.
 
-My goal is to contribute meaningfully to a defensive security team while still in university, entering the industry with demonstrable capability rather than credentials alone.
+My goal is to contribute meaningfully to a defensive security team while still in College/University, entering the industry with demonstrable capability rather than credentials alone.
 
 ---
 
@@ -43,23 +43,23 @@ My goal is to contribute meaningfully to a defensive security team while still i
 
 ## Tools & Platforms
 
-**SIEM & Log Analysis:** Elastic SIEM, Splunk (Fundamentals)
+**SIEM & Log Analysis:** Elastic SIEM, Splunk (Fundamentals) - To be learned 
 
-**Network Analysis:** Wireshark
+**Network Analysis:** Wireshark - To be learned
 
-**Endpoint Monitoring:** Sysmon, Windows Event Logs
+**Endpoint Monitoring:** Sysmon, Windows Event Logs - To be learned
 
-**Investigation Platforms:** TryHackMe, Blue Team Labs Online, LetsDefend
+**Investigation Platforms:** TryHackMe, Blue Team Labs Online, LetsDefend - Currently Learning 
 
-**Frameworks:** MITRE ATT&CK
+**Frameworks:** MITRE ATT&CK - To be learned 
 
-**Virtualisation:** VirtualBox (Windows 10 VM, Kali Linux VM)
+**Virtualisation:** VirtualBox (Windows 10 VM, Kali Linux VM) - To be learned
 
 ---
 
 ## Home Lab
 
-I have built a functional SIEM environment using VirtualBox and Elastic, with a Windows 10 VM configured with Sysmon for detailed endpoint logging. Log ingestion, alert monitoring, and simulated threat detection are all documented in the `/home-lab` folder.
+Currently building a home SIEM environment using VirtualBox and Elastic, with a Windows 10 VM to be configured with Sysmon for detailed endpoint logging. Setup progress and experiments will be documented in the `/home-lab` folder
 
 ---
 
