@@ -1,7 +1,7 @@
 # Tambe Bryan: Cybersecurity Portfolio
 
-**Aspiring Blue Team Analyst | BSc (Hons) Computer Science with Cybersecurity**
-Birmingham Newman University
+**Aspiring Blue Team Analyst | HNC in Computing**
+Walsall College
 
 ---
 
